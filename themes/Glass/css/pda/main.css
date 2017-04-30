@@ -1,0 +1,38 @@
+body {margin-top: 10px; font-family: 'Liberation Serif', serif; font-size: 10pt;}
+header, #body_content_pda, footer {margin: 0 auto; max-width: 600px; min-width: 120px; padding: 3px;}
+header, #top_sidebar_pda, #page_pda, footer {border-radius: 7px;}
+ul, ol {margin: 4px 2px 4px;}
+h1, h2, h3, h4, h5, h6 {margin: 7px; font-weight: bolder;}
+a {text-decoration: none;}
+a:hover{text-decoration: underline;}
+
+#header_content_pda {margin: 5px auto 5px; width: 100%;}
+#logo_pda {margin: auto;}
+#logo_text_pda {margin: 5px auto 5px; text-align: center; font-size: 14pt;}
+#top_menu_pda {width: 100%; margin-top: 3px; text-align: center;}
+#top_sidebar_pda {margin: 7px 0 7px; text-align: center; opacity: 0.9;}
+#top_sidebar_pda, #footer_sidebar_pda {padding: 5px;}
+
+.header_menu_element_pda, .header_menu_li_pda {font-size: 11pt;}
+.header_menu_element_pda a:active {font-weight: bold;}
+
+.top_widget_pda, .footer_wodget_pda {margin: 3px 2px 3px;}
+.top_widget_name_pda, .footer_widget_name_pda {padding: 1px; text-align: center; border-radius: 3px 3px 0 0;}
+.top_widget_content_pda, .footer_widget_content_pda {padding: 2px; text-align: center;}
+
+#page_pda {margin: 7px 0 7px; opacity: 0.9;}
+#content_pda {padding: 4px; font-size: 11pt;}
+#content_pda h1 {font-size: 22pt;}
+#content_pda .title {text-align: center;}
+#content_pda h2 {font-size: 20pt;}
+#content_pda h3 {font-size: 18pt;}
+#content_pda h4 {font-size: 16pt;}
+#content_pda h5 {font-size: 14pt;}
+#content_pda h6 {font-size: 12pt;}
+#content_pda ul, #content_pda ol {margin: 7px;}
+#content_pda ul, #content_pda li {list-style-type: circle;}
+#content_pda p {margin: 10px 0 10px;}
+#content_pda blockquote {font-family: 'Droid Serif', serif; font-size: 10pt; margin: 15px; border-radius: 10px; padding: 7px; opacity: 0.8;}
+#content_pda pre {font-family: 'Liberation Mono', mono; font-size: 9pt; margin: 15px; border-radius: 10px; padding: 7px; opacity: 0.8;}
+#content_pda table {border-collapse: collapse; font-size: 11pt;}
+#content_pda td, #content_pda th {padding: 5px; text-align: center; font-weight: normal; display: table-cell; vertical-align: middle;}

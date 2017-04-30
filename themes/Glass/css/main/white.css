@@ -1,0 +1,31 @@
+body {color: #3C3C3C;}
+header {background-color: #fff; box-shadow: 0 0 10px #fff;}
+a {color: #EA3C0B;}
+a:hover {color: #B12D09;}
+a:visited {color: #EA3C0B;}
+a:active {color: #7B1F06;}
+.top_menu_element, .top_menu_ul {background-color: #FA7878; text-shadow: 0 0 5px #4A4A4A;}
+.top_menu_element:hover, .top_menu_li:hover {background-color: #FA6262;}
+.top_menu_element a {color: #000;}
+.top_menu_element a:hover {color: #000;}
+.top_menu_element a:active {color: #000;}
+.top_menu_element a:visited {color: #000;}
+.header_widget_name, .right_widget_name, .footer_widget_name {background-color: #FAB2B2; color: #000; text-shadow: 0 0 3px #4A4A4A;}
+.header_widget_name:hover, .right_widget_name:hover, .footer_widget_name:hover {background-color: #FAB9B9; text-shadow: none;}
+#logo {text-shadow: 0 0 5px #4A4A4A;}
+#logo:hover {text-shadow: 0 3px 5px #4A4A4A;}
+#page {background-color: #fff; box-shadow: 0 0 10px #fff;}
+#content {text-shadow: 0 3px 5px #4A4A4A;}
+#content .title {color: #000;}
+#content .title:hover, #content h1:hover, #content h2:hover, #content h3:hover, #content h4:hover, #content h5:hover, #content h6:hover, #content li:hover {text-shadow: 0 0 5px #4A4A4A;}
+#content a:visited {color: #FF410D;}
+#content blockquote {border: 1px dotted #676767; color: #000; background-color: #00FF48; box-shadow: 0 0 5px #000;}
+#content blockquote:hover {background-color: #00FF66;}
+#content pre {border: 1px dotted #676767; color: #000; background-color: #E7E7E7; box-shadow: 0 0 5px #000;}
+#content pre:hover {background-color: #EEEEEE;}
+#content td, #content th {border: 1px dashed #000;}
+#content th {background-color: #00FF99;}
+#content th:hover {background-color: #00FFAE;}
+#content td:hover {background-color: #F7F7F7;}
+#right_sidebar {background-color: #fff; box-shadow: 0 0 10px #fff;}
+footer {background-color: #fff; box-shadow: 0 0 10px #fff;}

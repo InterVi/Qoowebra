@@ -1,0 +1,54 @@
+body {margin-top: 20px; font-family: 'Liberation Serif', serif; font-size: 11pt;}
+header, #body_content, footer {margin: 0 auto;}
+header, footer {width: 1000px;}
+ul, ol {margin: 5px 2px 5px;}
+h1, h2, h3, h4, h5, h6 {margin: 10px; font-weight: bolder;}
+a {text-decoration: none;}
+a:hover{text-decoration: underline;}
+
+header {height: 120px; margin-bottom: 20px; padding: 5px; border-radius: 5px;}
+#header_content {width: 570px; float: left;}
+#logo {width: 570px; height: 90px; text-align: center; display: table-cell; vertical-align: middle; font-size: 18pt;}
+#top_menu {width: 100%; margin-top: 5px; text-align: center;}
+#header_sidebar {width: 420px; height: 90px; float: right;}
+
+.header_widget {width: 205px; height: 90px; display: inline-block; padding: 0 1px 0;}
+.header_widget_name {height: 15px; padding: 1px; text-align: center; border-radius: 3px 3px 0 0;}
+.header_widget_content {padding: 3px;}
+
+.top_menu_element {display: inline-block; padding: 3px; border-radius: 3px;}
+.top_menu_element a:hover {text-decoration: none;}
+.top_menu_li, .top_menu_ul {list-style-type: none; margin: 0; padding: 0 0 0 3px;}
+.top_menu_li {padding-top: 5px;}
+.top_menu_li:hover {width: 120%;}
+.top_menu_element ul {display: none;}
+.top_menu_element:hover > ul, .top_menu_ul:hover {display: block; position: absolute; z-index: 1;}
+
+#body_content {width: 1000px; content: ""; display: table; clear: both;}
+#page {width: 800px; float: left; border-radius: 5px; opacity: 0.9;}
+#content {padding: 5px; font-size: 13pt;}
+#content h1 {font-size: 30pt;}
+#content .title {text-align: center;}
+#content h2 {font-size: 26pt;}
+#content h3 {font-size: 22pt;}
+#content h4 {font-size: 18pt;}
+#content h5 {font-size: 16pt;}
+#content h6 {font-size: 14pt;}
+#content ul, #content ol {margin: 10px;}
+#content ul, #content li {list-style-type: circle;}
+#content p {margin: 15px 0 15px;}
+#content blockquote {font-family: 'Droid Serif', serif; font-size: 11pt; margin: 15px; border-radius: 10px; padding: 7px; opacity: 0.8;}
+#content pre {font-family: 'Liberation Mono', mono; font-size: 10pt; margin: 15px; border-radius: 10px; padding: 7px; opacity: 0.8;}
+#content table {border-collapse: collapse; font-size: 11pt;}
+#content td, #content th {padding: 5px; text-align: center; font-weight: normal; display: table-cell; vertical-align: middle;}
+
+#right_sidebar {width: 190px; margin-left: 5px; border-radius: 5px; opacity: 0.9; float: right;}
+.right_widget {width: 180px; margin-bottom: 5px; margin: 5px;}
+.right_widget_name {height: 15px; padding: 1px; text-align: center; border-radius: 3px 3px 0 0;}
+.right_widget_content {padding: 3px;}
+
+footer {margin-top: 20px; padding: 3px; border-radius: 5px; opacity: 0.9;}
+#footer_sidebar {}
+.footer_widget {width: 326px; height: 100px; margin: 2px; display: inline-block;}
+.footer_widget_name {height: 15px; padding: 1px; text-align: center; border-radius: 3px 3px 0 0;}
+.footer_widget_content {padding: 3px;}

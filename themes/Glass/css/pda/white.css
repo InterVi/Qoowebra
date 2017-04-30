@@ -1,0 +1,22 @@
+body {color: #262626;}
+header, #top_sidebar_pda, #page_pda, footer {background-color: #fff; box-shadow: 0 0 10px #fff;}
+a {color: #EA3C0B;}
+a:hover {color: #B12D09;}
+a:visited {color: #EA3C0B;}
+a:active {color: #7B1F06;}
+.header_menu_element_pda a {color: #000;}
+.header_menu_element_pda a:hover {background-color: #FA7878;}
+.top_widget_name_pda, .footer_widget_name_pda {background-color: #FAB2B2; color: #000; text-shadow: 0 0 3px #4A4A4A;}
+.top_widget_name_pda:hover, .footer_widget_name_pda:hover {background-color: #FAB9B9; text-shadow: none;}
+#content_pda {text-shadow: 0 3px 5px #4A4A4A;}
+#content_pda .title {color: #000;}
+#content_pda .title:hover, #content_pda h1:hover, #content_pda h2:hover, #content_pda h3:hover, #content_pda h4:hover, #content_pda h5:hover, #content_pda h6:hover, #content_pda li:hover {text-shadow: 0 0 5px #4A4A4A;}
+#content_pda a:visited {color: #FF410D;}
+#content_pda blockquote {border: 1px dotted #676767; color: #000; background-color: #00FF48; box-shadow: 0 0 5px #000;}
+#content_pda blockquote:hover {background-color: #00FF66;}
+#content_pda pre {border: 1px dotted #676767; color: #000; background-color: #E7E7E7; box-shadow: 0 0 5px #000;}
+#content_pda pre:hover {background-color: #EEEEEE;}
+#content_pda td, #content_pda th {border: 1px dashed #000;}
+#content_pda th {background-color: #00FF99;}
+#content_pda th:hover {background-color: #00FFAE;}
+#content_pda td:hover {background-color: #F7F7F7;}
